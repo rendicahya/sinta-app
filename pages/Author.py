@@ -1,5 +1,5 @@
-import streamlit as st
 import sinta
+import streamlit as st
 
 st.set_page_config(page_title='Author - SINTA Scraper', page_icon=':sparkles:')
 st.title('Author Info')

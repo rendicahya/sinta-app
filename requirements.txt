@@ -1,1 +1,1 @@
-sinta-scraper==2.2.0
+sinta-scraper==2.2.1
